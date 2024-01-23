@@ -1,0 +1,15 @@
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\bin\Debug\net6.0\TestTask2.exe
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\bin\Debug\net6.0\TestTask2.deps.json
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\bin\Debug\net6.0\TestTask2.runtimeconfig.json
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\bin\Debug\net6.0\TestTask2.dll
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\bin\Debug\net6.0\TestTask2.pdb
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.csproj.AssemblyReference.cache
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.AssemblyInfoInputs.cache
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.AssemblyInfo.cs
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.csproj.CoreCompileInputs.cache
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.dll
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\refint\TestTask2.dll
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.pdb
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\TestTask2.genruntimeconfig.cache
+D:\UPDATEDMATERIAL\C#OOP\C#OOPNew\TestTask2\obj\Debug\net6.0\ref\TestTask2.dll
